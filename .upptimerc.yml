@@ -2,11 +2,13 @@ owner: CORDTOWN
 repo: upptime
 
 sites:
-  - name: Movie-RSS
+  - name: LOONA-RSS
+    url: https://journalism-rss.cord.town/
+  - name: MOVIE-RSS
     url: https://movie-rss.cord.town/
-  - name: Tech-RSS
+  - name: TECH-RSS
     url: https://tech-rss.cord.town/  
-  - name: Journalism-RSS
+  - name: JOURNALISM-RSS
     url: https://journalism-rss.cord.town/
 
 status-website:
