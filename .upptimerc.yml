@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: LOONA-RSS
-    url: https://journalism-rss.cord.town/
+    url: https://loona-rss.cord.town/
   - name: MOVIE-RSS
     url: https://movie-rss.cord.town/
   - name: TECH-RSS
