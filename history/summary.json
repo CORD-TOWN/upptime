@@ -40,19 +40,19 @@
     "url": "https://music-rss.cord.town/",
     "icon": "https://favicons.githubusercontent.com/music-rss.cord.town",
     "slug": "music-rss",
-    "status": "down",
-    "uptime": "6.30%",
-    "uptimeDay": "6.30%",
-    "uptimeWeek": "6.30%",
-    "uptimeMonth": "6.30%",
-    "uptimeYear": "6.30%",
-    "time": 64,
-    "timeDay": 64,
-    "timeWeek": 64,
-    "timeMonth": 64,
-    "timeYear": 64,
+    "status": "up",
+    "uptime": "2.03%",
+    "uptimeDay": "2.03%",
+    "uptimeWeek": "2.03%",
+    "uptimeMonth": "2.03%",
+    "uptimeYear": "2.03%",
+    "time": 183,
+    "timeDay": 183,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2022-02-22": 0
+      "2022-02-22": 4
     }
   },
   {
