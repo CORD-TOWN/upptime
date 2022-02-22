@@ -6,8 +6,6 @@ sites:
     url: https://loona-rss.cord.town/
   - name: TICKET-RSS
     url: https://ticket-rss.cord.town/
-  - name: MUSIC-RSS
-    url: https://music-rss.cord.town/
   - name: MOVIE-RSS
     url: https://movie-rss.cord.town/
   - name: TECH-RSS
