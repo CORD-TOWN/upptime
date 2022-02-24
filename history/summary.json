@@ -24,19 +24,19 @@
     "url": "https://ticket-rss.cord.town/",
     "icon": "https://favicons.githubusercontent.com/ticket-rss.cord.town",
     "slug": "ticket-rss",
-    "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
-    "time": 4272,
-    "timeDay": 14302,
-    "timeWeek": 4272,
-    "timeMonth": 4272,
-    "timeYear": 4272,
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
+    "time": 3748,
+    "timeDay": 9559,
+    "timeWeek": 3748,
+    "timeMonth": 3748,
+    "timeYear": 3748,
     "dailyMinutesDown": {
-      "2022-02-24": 31
+      "2022-02-24": 38
     }
   },
   {
