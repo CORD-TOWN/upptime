@@ -14,7 +14,9 @@ sites:
     url: https://tech-rss.cord.town/  
   - name: JOURNALISM-RSS
     url: https://journalism-rss.cord.town/
-
+  - name: Reddit-RSS
+    url: https://reddit-rss.cord.town/
+    
 status-website:
   cname: status.cord.town
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
