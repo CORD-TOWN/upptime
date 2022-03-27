@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 973,
-    "timeDay": 147,
-    "timeWeek": 211,
-    "timeMonth": 286,
-    "timeYear": 973,
+    "time": 955,
+    "timeDay": 251,
+    "timeWeek": 220,
+    "timeMonth": 278,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2022-02-24": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 995,
-    "timeDay": 278,
-    "timeWeek": 247,
-    "timeMonth": 274,
-    "timeYear": 995,
+    "time": 974,
+    "timeDay": 190,
+    "timeWeek": 236,
+    "timeMonth": 270,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2022-02-24": 31
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/music-rss.cord.town",
     "slug": "music-rss",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.77%",
-    "time": 1104,
-    "timeDay": 69,
-    "timeWeek": 241,
-    "timeMonth": 409,
-    "timeYear": 1104,
+    "uptimeYear": "99.78%",
+    "time": 1081,
+    "timeDay": 185,
+    "timeWeek": 227,
+    "timeMonth": 399,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2022-03-15": 76,
       "2022-02-24": 30
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.74%",
-    "time": 303,
-    "timeDay": 293,
-    "timeWeek": 213,
-    "timeMonth": 276,
-    "timeYear": 303,
+    "time": 302,
+    "timeDay": 222,
+    "timeWeek": 224,
+    "timeMonth": 268,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2022-03-09": 37,
       "2022-03-08": 102,
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 239,
-    "timeDay": 200,
-    "timeWeek": 185,
-    "timeMonth": 215,
-    "timeYear": 239,
+    "time": 238,
+    "timeDay": 226,
+    "timeWeek": 181,
+    "timeMonth": 213,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2022-02-24": 27
     }
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 380,
-    "timeDay": 192,
-    "timeWeek": 154,
-    "timeMonth": 214,
-    "timeYear": 380,
+    "time": 378,
+    "timeDay": 297,
+    "timeWeek": 187,
+    "timeMonth": 206,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2022-02-24": 26
     }
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1037,
-    "timeDay": 968,
-    "timeWeek": 1072,
-    "timeMonth": 1037,
-    "timeYear": 1037,
+    "time": 1021,
+    "timeDay": 824,
+    "timeWeek": 1058,
+    "timeMonth": 1021,
+    "timeYear": 1021,
     "dailyMinutesDown": {}
   }
 ]
