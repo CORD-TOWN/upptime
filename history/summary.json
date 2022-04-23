@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 691,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 258,
-    "timeYear": 691,
+    "time": 682,
+    "timeDay": 75,
+    "timeWeek": 289,
+    "timeMonth": 257,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2022-02-24": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 703,
-    "timeDay": 292,
-    "timeWeek": 307,
-    "timeMonth": 289,
-    "timeYear": 703,
+    "time": 694,
+    "timeDay": 156,
+    "timeWeek": 267,
+    "timeMonth": 285,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2022-02-24": 31
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 739,
-    "timeDay": 281,
-    "timeWeek": 232,
-    "timeMonth": 252,
-    "timeYear": 739,
+    "time": 731,
+    "timeDay": 232,
+    "timeWeek": 206,
+    "timeMonth": 253,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2022-03-15": 76,
       "2022-02-24": 30
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 273,
-    "timeDay": 68,
-    "timeWeek": 229,
-    "timeMonth": 223,
-    "timeYear": 273,
+    "time": 271,
+    "timeDay": 66,
+    "timeWeek": 212,
+    "timeMonth": 221,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2022-03-09": 37,
       "2022-03-08": 102,
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 224,
-    "timeDay": 98,
-    "timeWeek": 189,
-    "timeMonth": 188,
-    "timeYear": 224,
+    "time": 223,
+    "timeDay": 152,
+    "timeWeek": 199,
+    "timeMonth": 191,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2022-02-24": 27
     }
@@ -108,16 +108,16 @@
     "icon": "https://favicons.githubusercontent.com/journalism-rss.cord.town",
     "slug": "journalism-rss",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 326,
-    "timeDay": 108,
-    "timeWeek": 139,
-    "timeMonth": 218,
-    "timeYear": 326,
+    "uptimeYear": "99.98%",
+    "time": 324,
+    "timeDay": 167,
+    "timeWeek": 124,
+    "timeMonth": 222,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2022-02-24": 26
     }
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.83%",
-    "time": 1189,
-    "timeDay": 870,
-    "timeWeek": 1019,
-    "timeMonth": 1239,
-    "timeYear": 1189,
+    "time": 1185,
+    "timeDay": 1036,
+    "timeWeek": 995,
+    "timeMonth": 1241,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2022-04-03": 92
     }
