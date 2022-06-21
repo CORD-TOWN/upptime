@@ -1,7 +1,7 @@
 url: https://music-rss.cord.town/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-21T06:43:35.834Z
+status: up
+code: 200
+responseTime: 426
+lastUpdated: 2022-06-21T07:09:17.051Z
 startTime: Tue Feb 22 2022 05:01:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
