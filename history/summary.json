@@ -172,9 +172,9 @@
     "url": "https://reddit-rss.cord.town/",
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.cord.town.ico",
     "slug": "reddit-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -184,6 +184,7 @@
     "timeMonth": 1282,
     "timeYear": 1189,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2022-04-03": 92
     }
   }
