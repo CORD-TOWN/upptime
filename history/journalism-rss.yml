@@ -1,7 +1,7 @@
 url: https://journalism-rss.cord.town/
-status: up
-code: 200
-responseTime: 223
-lastUpdated: 2022-12-01T23:21:11.896Z
+status: down
+code: 503
+responseTime: 67
+lastUpdated: 2022-12-02T02:09:46.169Z
 startTime: Wed Feb 09 2022 17:45:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
